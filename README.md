@@ -12,6 +12,10 @@
 
 ---
 
+To use this repo, just use the template for your own repo, clone it down, change the variables in `init.sh` and run it.
+
+---
+
 This is the `PROJECT_NAME` Python package, which is designed to provide a way to easily find probabilities for various probability distributions.
 
 The Python source code can be found in `src/PROJECT_NAME/` and the full documentation can be found on [my GitHub pages site](https://doctordalek1963.github.io/PROJECT_NAME).
